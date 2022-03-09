@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Analysis - Sandeep/Chandan¶
+> Understanding the driving factors behind probable loan default ,i.e. the variables which are strong indicators of default and utilize this knowledge for its portfolio and risk assessment.
 
 
 ## Table of Contents
@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@chandan110791] - feel free to contact me!
 
 
 <!-- Optional -->
