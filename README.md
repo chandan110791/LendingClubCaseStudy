@@ -30,7 +30,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@chandan110791,@pathaniasandy] - feel free to contact me!
+Created by [@chandan110791] - feel free to contact me!
 
 
 
