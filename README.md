@@ -1,4 +1,4 @@
-# Lending Club Analysis - Sandeep/Chandan
+# Lending Club Analysis
 > This is a case study to identify the loan defaulters based on different variables.
 
 
